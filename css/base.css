@@ -1,0 +1,33 @@
+@media screen and (min-width: 320px) {
+    body {
+        background-color: rgb(138, 206, 138);
+    }
+    main {
+        background-color: deeppink;
+        width: 480px;
+        margin-right: auto;
+        margin-left: auto;
+        position: relative;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    body {
+        background-color: rgb(138, 206, 138);
+    }
+}
+
+@media screen and (min-width: 960px) {
+    body {
+        border-style: solid;
+        background-color: rgb(131, 157, 228);
+    }
+    main {
+        background-color: khaki;
+        width: 960px;
+        height: 700px;
+        margin-right: auto;
+        margin-left: auto;
+        position: relative;
+    }
+}
